@@ -85,9 +85,6 @@ Overall, this project demonstrates the application of machine learning technique
 - seaborn
 - scikit-learn
 
-## Contributors
 
-- Durgesh Kumar[https://github.com/durgeshanalyst]
-- Kartikeya Baijal [https://github.com/Kartikeya101]
 
 Thank you for your interest in the Placed Unplaced Model project. Feel free to contribute or provide feedback. Your insights are valuable to us!
